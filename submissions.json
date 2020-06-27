@@ -1,4 +1,20 @@
 {
+  "AC14728947": {
+    "contest_id": "abc172",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc172\\A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Calc",
+    "problem_url": "https://atcoder.jp/contests/abc172/tasks/abc172_a",
+    "submission_id": "AC14728947",
+    "submission_url": "https://atcoder.jp/contests/abc172/submissions/14728947",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jun/27/2020 17:32"
+  },
   "AC14735110": {
     "contest_id": "abc172",
     "language": "Java (OpenJDK 11.0.6)",
