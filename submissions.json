@@ -1,4 +1,20 @@
 {
+  "AC14834668": {
+    "contest_id": "abc171",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc171\\C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "One Quadrillion and One Dalmatians",
+    "problem_url": "https://atcoder.jp/contests/abc171/tasks/abc171_c",
+    "submission_id": "AC14834668",
+    "submission_url": "https://atcoder.jp/contests/abc171/submissions/14834668",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jun/29/2020 10:30"
+  },
   "AC14834790": {
     "contest_id": "abc153",
     "language": "Java (OpenJDK 11.0.6)",
