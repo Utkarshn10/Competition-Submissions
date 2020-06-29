@@ -1,4 +1,20 @@
 {
+  "AC14834925": {
+    "contest_id": "abc153",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc153\\B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Common Raccoon vs Monster",
+    "problem_url": "https://atcoder.jp/contests/abc153/tasks/abc153_b",
+    "submission_id": "AC14834925",
+    "submission_url": "https://atcoder.jp/contests/abc153/submissions/14834925",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jun/29/2020 10:44"
+  },
   "AC14835078": {
     "contest_id": "abc153",
     "language": "Java (OpenJDK 11.0.6)",
