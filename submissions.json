@@ -1,4 +1,20 @@
 {
+  "AC14836858": {
+    "contest_id": "abc169",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc169\\A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Multiplication 1",
+    "problem_url": "https://atcoder.jp/contests/abc169/tasks/abc169_a",
+    "submission_id": "AC14836858",
+    "submission_url": "https://atcoder.jp/contests/abc169/submissions/14836858",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jun/29/2020 12:25"
+  },
   "AC14858496": {
     "contest_id": "abc168",
     "language": "Java (OpenJDK 11.0.6)",
