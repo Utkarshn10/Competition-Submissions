@@ -1,4 +1,20 @@
 {
+  "AC14858597": {
+    "contest_id": "abc168",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc168\\B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "... (Triple Dots)",
+    "problem_url": "https://atcoder.jp/contests/abc168/tasks/abc168_b",
+    "submission_id": "AC14858597",
+    "submission_url": "https://atcoder.jp/contests/abc168/submissions/14858597",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jun/30/2020 11:10"
+  },
   "AC14898466": {
     "contest_id": "abc160",
     "language": "Java (OpenJDK 11.0.6)",
