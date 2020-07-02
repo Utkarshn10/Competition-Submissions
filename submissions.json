@@ -1,4 +1,20 @@
 {
+  "AC14906941": {
+    "contest_id": "abc161",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc161\\A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "ABC Swap",
+    "problem_url": "https://atcoder.jp/contests/abc161/tasks/abc161_a",
+    "submission_id": "AC14906941",
+    "submission_url": "https://atcoder.jp/contests/abc161/submissions/14906941",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jul/02/2020 19:49"
+  },
   "AC14960158": {
     "contest_id": "abc157",
     "language": "Java (OpenJDK 11.0.6)",
