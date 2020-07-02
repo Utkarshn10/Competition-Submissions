@@ -1,4 +1,20 @@
 {
+  "AC14898466": {
+    "contest_id": "abc160",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc160\\A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Coffee",
+    "problem_url": "https://atcoder.jp/contests/abc160/tasks/abc160_a",
+    "submission_id": "AC14898466",
+    "submission_url": "https://atcoder.jp/contests/abc160/submissions/14898466",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jul/02/2020 12:05"
+  },
   "AC14898696": {
     "contest_id": "abc160",
     "language": "Java (OpenJDK 11.0.6)",
