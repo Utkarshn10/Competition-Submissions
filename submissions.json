@@ -1,4 +1,20 @@
 {
+  "AC14981119": {
+    "contest_id": "abc173",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc173\\B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Judge Status Summary",
+    "problem_url": "https://atcoder.jp/contests/abc173/tasks/abc173_b",
+    "submission_id": "AC14981119",
+    "submission_url": "https://atcoder.jp/contests/abc173/submissions/14981119",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jul/05/2020 17:41"
+  },
   "AC15037452": {
     "contest_id": "abc150",
     "language": "Java (OpenJDK 11.0.6)",
