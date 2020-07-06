@@ -1,4 +1,20 @@
 {
+  "AC15046289": {
+    "contest_id": "abc151",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc151\\B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Achieve the Goal",
+    "problem_url": "https://atcoder.jp/contests/abc151/tasks/abc151_b",
+    "submission_id": "AC15046289",
+    "submission_url": "https://atcoder.jp/contests/abc151/submissions/15046289",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jul/06/2020 17:15"
+  },
   "AC15047210": {
     "contest_id": "abc151",
     "language": "Java (OpenJDK 11.0.6)",
