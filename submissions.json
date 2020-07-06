@@ -1,4 +1,20 @@
 {
+  "AC15037452": {
+    "contest_id": "abc150",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc150\\A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "500 Yen Coins",
+    "problem_url": "https://atcoder.jp/contests/abc150/tasks/abc150_a",
+    "submission_id": "AC15037452",
+    "submission_url": "https://atcoder.jp/contests/abc150/submissions/15037452",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jul/06/2020 09:58"
+  },
   "AC15037762": {
     "contest_id": "abc150",
     "language": "Java (OpenJDK 11.0.6)",
