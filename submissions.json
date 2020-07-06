@@ -1,4 +1,20 @@
 {
+  "AC15037762": {
+    "contest_id": "abc150",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc150\\B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Count ABC",
+    "problem_url": "https://atcoder.jp/contests/abc150/tasks/abc150_b",
+    "submission_id": "AC15037762",
+    "submission_url": "https://atcoder.jp/contests/abc150/submissions/15037762",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jul/06/2020 10:16"
+  },
   "AC15046068": {
     "contest_id": "abc151",
     "language": "Java (OpenJDK 11.0.6)",
