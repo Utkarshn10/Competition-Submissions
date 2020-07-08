@@ -1,4 +1,20 @@
 {
+  "AC15092542": {
+    "contest_id": "abc156",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc156\\B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Digits",
+    "problem_url": "https://atcoder.jp/contests/abc156/tasks/abc156_b",
+    "submission_id": "AC15092542",
+    "submission_url": "https://atcoder.jp/contests/abc156/submissions/15092542",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jul/08/2020 23:02"
+  },
   "AC15189571": {
     "contest_id": "aising2020",
     "language": "Java (OpenJDK 11.0.6)",
