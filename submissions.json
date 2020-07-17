@@ -1,4 +1,20 @@
 {
+  "AC15292032": {
+    "contest_id": "abc140",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc140\\A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Password",
+    "problem_url": "https://atcoder.jp/contests/abc140/tasks/abc140_a",
+    "submission_id": "AC15292032",
+    "submission_url": "https://atcoder.jp/contests/abc140/submissions/15292032",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jul/17/2020 23:04"
+  },
   "AC15292214": {
     "contest_id": "abc140",
     "language": "Java (OpenJDK 11.0.6)",
