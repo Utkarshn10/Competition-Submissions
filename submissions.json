@@ -1,4 +1,20 @@
 {
+  "AC15389001": {
+    "contest_id": "m-solutions2019",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\m-solutions2019\\A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Sum of Interior Angles",
+    "problem_url": "https://atcoder.jp/contests/m-solutions2019/tasks/m_solutions2019_a",
+    "submission_id": "AC15389001",
+    "submission_url": "https://atcoder.jp/contests/m-solutions2019/submissions/15389001",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jul/24/2020 12:01"
+  },
   "AC15389198": {
     "contest_id": "m-solutions2019",
     "language": "Java (OpenJDK 11.0.6)",
