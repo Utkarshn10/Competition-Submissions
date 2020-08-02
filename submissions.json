@@ -1,4 +1,20 @@
 {
+  "AC15580125": {
+    "contest_id": "abc136",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc136\\C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Build Stairs",
+    "problem_url": "https://atcoder.jp/contests/abc136/tasks/abc136_c",
+    "submission_id": "AC15580125",
+    "submission_url": "https://atcoder.jp/contests/abc136/submissions/15580125",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Aug/02/2020 11:50"
+  },
   "AC15580760": {
     "contest_id": "abc137",
     "language": "Java (OpenJDK 11.0.6)",
