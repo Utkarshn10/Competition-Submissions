@@ -1,4 +1,20 @@
 {
+  "AC15650618": {
+    "contest_id": "abc142",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc142\\B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Roller Coaster",
+    "problem_url": "https://atcoder.jp/contests/abc142/tasks/abc142_b",
+    "submission_id": "AC15650618",
+    "submission_url": "https://atcoder.jp/contests/abc142/submissions/15650618",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Aug/02/2020 22:48"
+  },
   "AC15650997": {
     "contest_id": "abc142",
     "language": "Java (OpenJDK 11.0.6)",
