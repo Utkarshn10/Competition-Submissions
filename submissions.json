@@ -1,4 +1,20 @@
 {
+  "AC16152219": {
+    "contest_id": "abc176",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc176\\C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Step",
+    "problem_url": "https://atcoder.jp/contests/abc176/tasks/abc176_c",
+    "submission_id": "AC16152219",
+    "submission_url": "https://atcoder.jp/contests/abc176/submissions/16152219",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Aug/22/2020 19:15"
+  },
   "AC16152358": {
     "contest_id": "abc176",
     "language": "Java (OpenJDK 11.0.6)",
