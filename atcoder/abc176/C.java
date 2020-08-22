@@ -94,7 +94,7 @@ public class Main {
         }
         for (int i=1; i<n; i++) {
         	if(ar[i-1]>=ar[i]) {
-        		sum+=ar[i-1]-ar[i];
+        		sum+=Math.max(ar[i-1]-ar[i],0);
         		ar[i]=ar[i-1];
         		
         	}
