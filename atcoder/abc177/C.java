@@ -89,34 +89,62 @@ public class Main {
 	 * @param args
 	 * @throws IOException
 	 */
-	 static int m =(int) (1e9+7);
-	 static long mod(long x) {
-		 
-		 return ((x%m+m)%m);
-	 }
-	 static long add(long x,long y) {
-		 return mod((mod(x)+mod(y)));
-	 }
-	 static long mul(long x,long y) {
-		 return mod((mod(x)*mod(y)));
-	 }
 	 
+	 static void findProductSum(long A[], int n) 
+	 { 
+	     // calculating array sum (a1 + a2 ... + an) 
+	     long array_sum = 0; 
+	     for (int i = 0; i < n; i++) 
+	         array_sum = array_sum + A[i]; 
+	   
+
+	     long array_sum_square = (array_sum * array_sum) ;
+	   
+
+	     long individual_square_sum = 0; 
+	     for (int i = 0; i < n; i++) 
+	         individual_square_sum += (A[i] * A[i]); 
+	     
+	    
+	     // required sum is (array_sum_square - 
+	     // individual_square_sum) / 2 
+	     long p =(array_sum_square - individual_square_sum)/ 2;
+	     System.out.println(p%1000000007);
+	   
+	 } 
 	public static void main(String[] args)throws IOException  {
 		FastReader s=new FastReader();		
-		int n = s.nextInt();
-		long[] ar = new long[n];
-		long[] f = new long[n+1];
-		f[n]=0;
-		for(int i=0;i<n;i++) {
+//		String se = s.next();
+//		String a = s.next();
+//		int k=0,max=0,c=0;
+//		String a2="";
+//		for(int i=0;i<a.length();i++) {
+//			a2 +=a.charAt(i);
+//			if(se.contains(a2)) {
+//				k=a2.length();
+//				
+////				System.out.println(1);
+//			}
+//			else{
+//				se="";
+//				k=0;
+//			}
+//			
+//			max = Math.max(k, max);
+//		}
+//		System.out.println(a.length()-max-c);
+		int n  = s.nextInt();
+		long[] ar =  new long[300001];
+		long[] p =  new long[300001];
+		p[0]=0;
+		long m = 1000000007;
+		long k=0,ans=0;
+		for(int i=1;i<=n;i++) {
 			ar[i] = s.nextLong();
-		}
-		long sum=0;
-		for(int i=n-1;i>=0;i--) {
-			f[i]=f[i+1]+ar[i];
-		}
-		long ans =0;
-		for(int i=0;i<n;i++) {
-			ans=add(ans,mul(ar[i],f[i+1]));
+			k=(p[i-1]*ar[i])%m;
+			ans=(ans+k)%m;
+			p[i] = (ar[i]+p[i-1])%m;
+			
 		}
 		System.out.println(ans);
 	}
