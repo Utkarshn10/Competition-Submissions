@@ -1,4 +1,20 @@
 {
+  "AC16393620": {
+    "contest_id": "abc177",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc177\\B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Substring",
+    "problem_url": "https://atcoder.jp/contests/abc177/tasks/abc177_b",
+    "submission_id": "AC16393620",
+    "submission_url": "https://atcoder.jp/contests/abc177/submissions/16393620",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Aug/30/2020 09:52"
+  },
   "AC16394101": {
     "contest_id": "abc177",
     "language": "Java (OpenJDK 11.0.6)",
