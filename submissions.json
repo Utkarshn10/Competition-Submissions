@@ -1,4 +1,20 @@
 {
+  "AC16402864": {
+    "contest_id": "abc134",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc134\\A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Dodecagon",
+    "problem_url": "https://atcoder.jp/contests/abc134/tasks/abc134_a",
+    "submission_id": "AC16402864",
+    "submission_url": "https://atcoder.jp/contests/abc134/submissions/16402864",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Aug/30/2020 15:48"
+  },
   "AC16403011": {
     "contest_id": "abc134",
     "language": "Java (OpenJDK 11.0.6)",
