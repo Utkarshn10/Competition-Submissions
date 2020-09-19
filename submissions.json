@@ -1,4 +1,20 @@
 {
+  "AC16853283": {
+    "contest_id": "abc179",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc179\\A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Plural Form",
+    "problem_url": "https://atcoder.jp/contests/abc179/tasks/abc179_a",
+    "submission_id": "AC16853283",
+    "submission_url": "https://atcoder.jp/contests/abc179/submissions/16853283",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Sep/19/2020 17:33"
+  },
   "AC16862113": {
     "contest_id": "abc179",
     "language": "Java (OpenJDK 11.0.6)",
