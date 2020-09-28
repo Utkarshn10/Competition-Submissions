@@ -1799,6 +1799,22 @@
     ],
     "timestamp": "Jan/31/2021 15:36"
   },
+  "CF94057300": {
+    "contest_id": 707,
+    "language": "Java 8",
+    "path": "codeforces\\707\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Brain's Photos",
+    "problem_url": "https://codeforces.com/contest/707/problem/A",
+    "submission_id": "CF94057300",
+    "submission_url": "https://codeforces.com/contest/707/submission/94057300",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Sep/28/2020 12:42"
+  },
   "CF94063425": {
     "contest_id": 1426,
     "language": "Java 8",
