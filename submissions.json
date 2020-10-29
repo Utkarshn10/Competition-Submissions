@@ -1,4 +1,20 @@
 {
+  "AC17717608": {
+    "contest_id": "abc180",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc180\\B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Various distances",
+    "problem_url": "https://atcoder.jp/contests/abc180/tasks/abc180_b",
+    "submission_id": "AC17717608",
+    "submission_url": "https://atcoder.jp/contests/abc180/submissions/17717608",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Oct/29/2020 16:14"
+  },
   "AC17718212": {
     "contest_id": "abc180",
     "language": "Java (OpenJDK 11.0.6)",
