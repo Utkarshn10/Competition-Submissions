@@ -1,4 +1,20 @@
 {
+  "AC17718212": {
+    "contest_id": "abc180",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc180\\C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Cream puff",
+    "problem_url": "https://atcoder.jp/contests/abc180/tasks/abc180_c",
+    "submission_id": "AC17718212",
+    "submission_url": "https://atcoder.jp/contests/abc180/submissions/17718212",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Oct/29/2020 17:01"
+  },
   "AC17722599": {
     "contest_id": "abl",
     "language": "Java (OpenJDK 11.0.6)",
