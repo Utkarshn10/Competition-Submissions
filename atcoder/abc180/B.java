@@ -90,7 +90,7 @@
 		for(int i=0;i<n;i++) {
 			ar[i] = s.nextInt();
 			c = Math.max(Math.abs(ar[i]),c);
-			e +=ar[i]*(long)ar[i];
+			e +=(Math.abs(ar[i])*(long)Math.abs(ar[i]));
 			m+=Math.abs(ar[i]);
 		}
 		
