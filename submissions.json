@@ -1,4 +1,20 @@
 {
+  "AC17717048": {
+    "contest_id": "abc180",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc180\\A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "box",
+    "problem_url": "https://atcoder.jp/contests/abc180/tasks/abc180_a",
+    "submission_id": "AC17717048",
+    "submission_url": "https://atcoder.jp/contests/abc180/submissions/17717048",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Oct/29/2020 15:28"
+  },
   "AC17717596": {
     "contest_id": "abc180",
     "language": "Java (OpenJDK 11.0.6)",
