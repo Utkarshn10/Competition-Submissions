@@ -1,4 +1,20 @@
 {
+  "AC17846559": {
+    "contest_id": "abc181",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc181\\B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Trapezoid Sum",
+    "problem_url": "https://atcoder.jp/contests/abc181/tasks/abc181_b",
+    "submission_id": "AC17846559",
+    "submission_url": "https://atcoder.jp/contests/abc181/submissions/17846559",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Nov/02/2020 22:23"
+  },
   "AC17966924": {
     "contest_id": "abc182",
     "language": "Java (OpenJDK 11.0.6)",
