@@ -1,4 +1,20 @@
 {
+  "AC17966924": {
+    "contest_id": "abc182",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc182\\A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "twiblr",
+    "problem_url": "https://atcoder.jp/contests/abc182/tasks/abc182_a",
+    "submission_id": "AC17966924",
+    "submission_url": "https://atcoder.jp/contests/abc182/submissions/17966924",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Nov/08/2020 17:52"
+  },
   "AC18001569": {
     "contest_id": "abc182",
     "language": "Java (OpenJDK 11.0.6)",
