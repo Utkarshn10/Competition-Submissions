@@ -1,4 +1,20 @@
 {
+  "AC18001569": {
+    "contest_id": "abc182",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc182\\B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Almost GCD",
+    "problem_url": "https://atcoder.jp/contests/abc182/tasks/abc182_b",
+    "submission_id": "AC18001569",
+    "submission_url": "https://atcoder.jp/contests/abc182/submissions/18001569",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Nov/08/2020 22:38"
+  },
   "AC18002154": {
     "contest_id": "abc182",
     "language": "Java (OpenJDK 11.0.6)",
