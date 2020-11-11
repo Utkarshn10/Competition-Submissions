@@ -1,4 +1,20 @@
 {
+  "AC18044726": {
+    "contest_id": "abc158",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc158\\D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "String Formation",
+    "problem_url": "https://atcoder.jp/contests/abc158/tasks/abc158_d",
+    "submission_id": "AC18044726",
+    "submission_url": "https://atcoder.jp/contests/abc158/submissions/18044726",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Nov/11/2020 13:11"
+  },
   "AC18063148": {
     "contest_id": "arc107",
     "language": "Java (OpenJDK 11.0.6)",
