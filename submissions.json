@@ -1,4 +1,20 @@
 {
+  "AC18042621": {
+    "contest_id": "abc158",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc158\\B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Count Balls",
+    "problem_url": "https://atcoder.jp/contests/abc158/tasks/abc158_b",
+    "submission_id": "AC18042621",
+    "submission_url": "https://atcoder.jp/contests/abc158/submissions/18042621",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Nov/11/2020 10:47"
+  },
   "AC18043231": {
     "contest_id": "abc158",
     "language": "Java (OpenJDK 11.0.6)",
