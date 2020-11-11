@@ -1,4 +1,20 @@
 {
+  "AC18043231": {
+    "contest_id": "abc158",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc158\\C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Tax Increase",
+    "problem_url": "https://atcoder.jp/contests/abc158/tasks/abc158_c",
+    "submission_id": "AC18043231",
+    "submission_url": "https://atcoder.jp/contests/abc158/submissions/18043231",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Nov/11/2020 11:32"
+  },
   "AC18044726": {
     "contest_id": "abc158",
     "language": "Java (OpenJDK 11.0.6)",
