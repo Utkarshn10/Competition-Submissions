@@ -1,4 +1,20 @@
 {
+  "AC18063148": {
+    "contest_id": "arc107",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\arc107\\A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Simple Math",
+    "problem_url": "https://atcoder.jp/contests/arc107/tasks/arc107_a",
+    "submission_id": "AC18063148",
+    "submission_url": "https://atcoder.jp/contests/arc107/submissions/18063148",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Nov/12/2020 16:04"
+  },
   "AC18120758": {
     "contest_id": "abc183",
     "language": "Java (OpenJDK 11.0.6)",
