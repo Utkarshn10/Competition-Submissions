@@ -1799,6 +1799,22 @@
     ],
     "timestamp": "Jan/31/2021 15:36"
   },
+  "CF98894864": {
+    "contest_id": 1351,
+    "language": "Java 8",
+    "path": "codeforces\\1351\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "A+B (Trial Problem)",
+    "problem_url": "https://codeforces.com/contest/1351/problem/A",
+    "submission_id": "CF98894864",
+    "submission_url": "https://codeforces.com/contest/1351/submission/98894864",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Nov/19/2020 19:59"
+  },
   "CF98897297": {
     "contest_id": 1452,
     "language": "Java 8",
