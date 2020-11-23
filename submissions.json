@@ -1799,6 +1799,24 @@
     ],
     "timestamp": "Jan/31/2021 15:36"
   },
+  "CF99320693": {
+    "contest_id": 1426,
+    "language": "Java 8",
+    "path": "codeforces\\1426\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Increase and Copy",
+    "problem_url": "https://codeforces.com/contest/1426/problem/C",
+    "submission_id": "CF99320693",
+    "submission_url": "https://codeforces.com/contest/1426/submission/99320693",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Nov/23/2020 18:07"
+  },
   "CF99403616": {
     "contest_id": 546,
     "language": "Java 8",
