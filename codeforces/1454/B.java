@@ -118,27 +118,48 @@ public class Main {
 		FastReader s=new FastReader();
 		int t = s.nextInt();
 		while(t-->0) {
-			int n = s.nextInt();
-			int[] ar = new int[n];
-			int[] ar1 = new int[n];
-			int[] se = new int[n];
+			int N = s.nextInt();
+			int[] Arr = new int[N];
+			int[] Person = new int[N]; 
+			int Min = 0;
 			
-	
-			
-			for(int i=0;i<n;i++) {
-				ar[i]=s.nextInt();
-				se[ar[i]-1]++;
-				ar1[ar[i]-1]=i+1;
+			for(int j=0;j<N;j++)
+			{
+				int a = s.nextInt();
+				Person[a-1] = j+1;
+				Arr[a-1]++;
 			}
-			int o=-1;
-			for(int i=0;i<n;i++) {
-//				System.out.println(i);
-				if(se[i]==1) {
-					o=ar1[i];
+			for(int j=0;j<N;j++)
+			{
+				if(Arr[j]==1)
+				{
+					Min=Person[j];
 					break;
 				}
 			}
-			System.out.println(o);
+			if(Min>0)System.out.println(Min);
+			else System.out.println(-1);
+//			int n = s.nextInt();
+//			int[] ar = new int[n];
+//			int[] ar1 = new int[1000000];
+//			int[] se = new int[1000000];
+//			
+//	
+//			
+//			for(int i=0;i<n;i++) {
+//				ar[i]=s.nextInt();
+//				se[ar[i]-1]++;
+//				ar1[ar[i]-1]=i+1;
+//			}
+//			int o=-1;
+//			for(int i=0;i<n;i++) {
+////				System.out.println(i);
+//				if(se[i]==1) {
+//					o=ar1[i];
+//					break;
+//				}
+//			}
+//			System.out.println(o);
 			
 		
 
