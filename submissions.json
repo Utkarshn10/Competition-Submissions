@@ -1799,6 +1799,23 @@
     ],
     "timestamp": "Jan/31/2021 15:36"
   },
+  "CF99605275": {
+    "contest_id": 1454,
+    "language": "Java 8",
+    "path": "codeforces\\1454\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Sequence Transformation",
+    "problem_url": "https://codeforces.com/contest/1454/problem/C",
+    "submission_id": "CF99605275",
+    "submission_url": "https://codeforces.com/contest/1454/submission/99605275",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Nov/26/2020 09:10"
+  },
   "CF99993029": {
     "contest_id": 1399,
     "language": "Java 8",
