@@ -1,4 +1,20 @@
 {
+  "CF100319009": {
+    "contest_id": 1436,
+    "language": "Java 8",
+    "path": "codeforces\\1436\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Reorder",
+    "problem_url": "https://codeforces.com/contest/1436/problem/A",
+    "submission_id": "CF100319009",
+    "submission_url": "https://codeforces.com/contest/1436/submission/100319009",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Dec/04/2020 10:56"
+  },
   "CF100322787": {
     "contest_id": 1436,
     "language": "Java 8",
