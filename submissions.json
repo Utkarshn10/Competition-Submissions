@@ -1,4 +1,20 @@
 {
+  "AC18638250": {
+    "contest_id": "abc127",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc127\\A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Ferris Wheel",
+    "problem_url": "https://atcoder.jp/contests/abc127/tasks/abc127_a",
+    "submission_id": "AC18638250",
+    "submission_url": "https://atcoder.jp/contests/abc127/submissions/18638250",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Dec/08/2020 10:24"
+  },
   "AC18638282": {
     "contest_id": "abc127",
     "language": "Java (OpenJDK 11.0.6)",
