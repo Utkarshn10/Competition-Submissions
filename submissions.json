@@ -1,4 +1,20 @@
 {
+  "CF100665145": {
+    "contest_id": 1256,
+    "language": "Java 8",
+    "path": "codeforces\\1256\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Minimize the Permutation",
+    "problem_url": "https://codeforces.com/contest/1256/problem/B",
+    "submission_id": "CF100665145",
+    "submission_url": "https://codeforces.com/contest/1256/submission/100665145",
+    "tags": [
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Dec/08/2020 09:45"
+  },
   "CF100756961": {
     "contest_id": 1316,
     "language": "Java 8",
