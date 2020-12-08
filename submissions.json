@@ -1,4 +1,20 @@
 {
+  "CF100664726": {
+    "contest_id": 1256,
+    "language": "Java 8",
+    "path": "codeforces\\1256\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Payment Without Change",
+    "problem_url": "https://codeforces.com/contest/1256/problem/A",
+    "submission_id": "CF100664726",
+    "submission_url": "https://codeforces.com/contest/1256/submission/100664726",
+    "tags": [
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Dec/08/2020 09:32"
+  },
   "CF100665145": {
     "contest_id": 1256,
     "language": "Java 8",
