@@ -1,4 +1,20 @@
 {
+  "AC18638282": {
+    "contest_id": "abc127",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc127\\B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Algae",
+    "problem_url": "https://atcoder.jp/contests/abc127/tasks/abc127_b",
+    "submission_id": "AC18638282",
+    "submission_url": "https://atcoder.jp/contests/abc127/submissions/18638282",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Dec/08/2020 10:27"
+  },
   "AC18638549": {
     "contest_id": "abc127",
     "language": "Java (OpenJDK 11.0.6)",
