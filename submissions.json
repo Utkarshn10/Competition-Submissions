@@ -1,4 +1,22 @@
 {
+  "CF100831398": {
+    "contest_id": 1399,
+    "language": "Java 8",
+    "path": "codeforces\\1399\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Boats Competition",
+    "problem_url": "https://codeforces.com/contest/1399/problem/C",
+    "submission_id": "CF100831398",
+    "submission_url": "https://codeforces.com/contest/1399/submission/100831398",
+    "tags": [
+      "brute force",
+      "greedy",
+      "two pointers",
+      "*1200"
+    ],
+    "timestamp": "Dec/10/2020 17:37"
+  },
   "CF100846261": {
     "contest_id": 1385,
     "language": "Java 8",
