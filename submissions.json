@@ -1,4 +1,20 @@
 {
+  "CF100823881": {
+    "contest_id": 1399,
+    "language": "Java 8",
+    "path": "codeforces\\1399\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Gifts Fixing",
+    "problem_url": "https://codeforces.com/contest/1399/problem/B",
+    "submission_id": "CF100823881",
+    "submission_url": "https://codeforces.com/contest/1399/submission/100823881",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Dec/10/2020 15:41"
+  },
   "CF100831398": {
     "contest_id": 1399,
     "language": "Java 8",
