@@ -1,4 +1,20 @@
 {
+  "CF100851861": {
+    "contest_id": 1385,
+    "language": "Java 8",
+    "path": "codeforces\\1385\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Three Pairwise Maximums",
+    "problem_url": "https://codeforces.com/contest/1385/problem/A",
+    "submission_id": "CF100851861",
+    "submission_url": "https://codeforces.com/contest/1385/submission/100851861",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Dec/10/2020 22:02"
+  },
   "CF100877715": {
     "contest_id": 1345,
     "language": "Java 8",
