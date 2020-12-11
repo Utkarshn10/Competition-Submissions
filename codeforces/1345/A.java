@@ -109,7 +109,7 @@ import java.util.StringTokenizer;
 				while(t-->0) {
 					int a  = s.nextInt();
 					int b = s.nextInt();
-					if(a==1 || b==1 || (a==2 &&b==2))System.out.println("Yes");
+					if(a<2 || b<2 || (a==2 &&b==2))System.out.println("Yes");
 					else System.out.println("No");
 				}
 			}			
