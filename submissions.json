@@ -1,4 +1,20 @@
 {
+  "CF100891424": {
+    "contest_id": 1374,
+    "language": "Java 8",
+    "path": "codeforces\\1374\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Required Remainder",
+    "problem_url": "https://codeforces.com/contest/1374/problem/A",
+    "submission_id": "CF100891424",
+    "submission_url": "https://codeforces.com/contest/1374/submission/100891424",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Dec/11/2020 15:27"
+  },
   "CF100910317": {
     "contest_id": 1328,
     "language": "Java 8",
