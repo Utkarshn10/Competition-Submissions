@@ -1,4 +1,22 @@
 {
+  "CF100992249": {
+    "contest_id": 1272,
+    "language": "Java 8",
+    "path": "codeforces\\1272\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Snow Walking Robot",
+    "problem_url": "https://codeforces.com/contest/1272/problem/B",
+    "submission_id": "CF100992249",
+    "submission_url": "https://codeforces.com/contest/1272/submission/100992249",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Dec/12/2020 12:09"
+  },
   "CF101046542": {
     "contest_id": 1272,
     "language": "Java 8",
