@@ -1,4 +1,21 @@
 {
+  "CF101089120": {
+    "contest_id": 1409,
+    "language": "Java 8",
+    "path": "codeforces\\1409\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Yet Another Two Integers Problem",
+    "problem_url": "https://codeforces.com/contest/1409/problem/A",
+    "submission_id": "CF101089120",
+    "submission_url": "https://codeforces.com/contest/1409/submission/101089120",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Dec/13/2020 15:48"
+  },
   "CF101187062": {
     "contest_id": 1141,
     "language": "Java 8",
