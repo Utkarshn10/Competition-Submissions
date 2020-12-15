@@ -1,4 +1,22 @@
 {
+  "CF101347395": {
+    "contest_id": 1462,
+    "language": "Java 8",
+    "path": "codeforces\\1462\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Last Year's Substring",
+    "problem_url": "https://codeforces.com/contest/1462/problem/B",
+    "submission_id": "CF101347395",
+    "submission_url": "https://codeforces.com/contest/1462/submission/101347395",
+    "tags": [
+      "dp",
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Dec/15/2020 22:19"
+  },
   "CF101380346": {
     "contest_id": 1462,
     "language": "Java 8",
