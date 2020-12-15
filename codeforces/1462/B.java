@@ -1,4 +1,4 @@
-
+	
 		
 		import java.io.BufferedReader;
 		import java.io.IOException;
@@ -94,57 +94,29 @@ import java.util.Set;
 		    return a;
 		    return gcd(b, a%b);
 		}
-		   static int digSum(int n) 
-		    { 
-		        int sum = 0, rem = 0; 
-		          
-		        while (n>0) { 
-		            rem = n % 10; 
-		            sum += rem; 
-		            n /= 10; 
-		        } 
-		          
-		        return sum; 
-		    } 
-		     static int check(int n) {
-		    	 List<Integer>l=new ArrayList<>();
-		    	 while(n>0) {
-		    		 int p=n%10;
-		    		 n/=10;
-		    		 if(l.contains(p)) {
-		    			 return -1;
-		    		 }
-		    		 l.add(p);
-		    	 }
-		    	 return 1;
-		     }
-		   
-		    static int findX(int n) 
-		    { 
-		        for (int i = 1; i <= 1000000000; i++)  
-		            if (check(i)==1 && digSum(i) == n) 
-		                return i; 
-		        return -1; 
-		    } 
+
 		public static void main(String[] args) throws IOException {
 			FastReader s=new FastReader();
 				int t=s.nextInt();
 				while(t-->0) {
 					int n=s.nextInt();
 					String se=s.next();
-					int f=0;
-					for(int i=0;i<=4;i++) {
-						int sec=4-i;
+					char[] c=se.toCharArray();
+					if((c[0]=='2'&&c[1]=='0'&&c[2]=='2'&& c[3]=='0')||c[n-4]=='2'&&c[n-3]=='0'&&c[n-2]=='2'&& c[n-1]=='0')System.out.println("YES");
+//					else if(c[n-1]=='0' && c[0]=='2'&& c[1]=='0'&& c[0]=='2') {
+//						
+//						System.out.println("YES");
+//						
+//					}
+					else if((c[n-1]=='0'&&c[n-2]=='2'&&c[n-3]=='0' && c[0]=='2')||(c[1]=='0'&& c[0]=='2'&&c[2]=='2'&&c[n-1]=='0')|| (c[1]=='0'&& c[0]=='2'&&c[n-2]=='2'&&c[n-1]=='0'))System.out.println("YES");
+					else System.out.println("NO");
 						
-						String g=se.substring(0,i)+se.substring(n- sec);
-						if(g.equals("2020")) {
-							f=1;
-							break;
-						}
-						
-					}
-					System.out.println(f==1?"YES":"NO");
 				}
+			
+				
+		
+				
+				
 		}
 	}
 	
