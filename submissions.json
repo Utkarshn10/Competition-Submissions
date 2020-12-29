@@ -1,4 +1,22 @@
 {
+  "CF102659626": {
+    "contest_id": 1270,
+    "language": "Java 8",
+    "path": "codeforces\\1270\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Interesting Subarray",
+    "problem_url": "https://codeforces.com/contest/1270/problem/B",
+    "submission_id": "CF102659626",
+    "submission_url": "https://codeforces.com/contest/1270/submission/102659626",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Dec/29/2020 11:15"
+  },
   "CF102663926": {
     "contest_id": 1270,
     "language": "Java 8",
