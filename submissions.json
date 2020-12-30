@@ -1,4 +1,21 @@
 {
+  "CF102754134": {
+    "contest_id": 1363,
+    "language": "Java 8",
+    "path": "codeforces\\1363\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Subsequence Hate",
+    "problem_url": "https://codeforces.com/contest/1363/problem/B",
+    "submission_id": "CF102754134",
+    "submission_url": "https://codeforces.com/contest/1363/submission/102754134",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1400"
+    ],
+    "timestamp": "Dec/30/2020 15:28"
+  },
   "CF102755209": {
     "contest_id": 1353,
     "language": "Java 8",
