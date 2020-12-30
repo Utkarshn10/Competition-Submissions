@@ -1,4 +1,22 @@
 {
+  "CF102755209": {
+    "contest_id": 1353,
+    "language": "Java 8",
+    "path": "codeforces\\1353\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Most Unstable Array",
+    "problem_url": "https://codeforces.com/contest/1353/problem/A",
+    "submission_id": "CF102755209",
+    "submission_url": "https://codeforces.com/contest/1353/submission/102755209",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Dec/30/2020 15:44"
+  },
   "CF102756175": {
     "contest_id": 1269,
     "language": "Java 8",
