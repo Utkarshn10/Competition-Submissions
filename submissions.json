@@ -1,4 +1,21 @@
 {
+  "CF102882678": {
+    "contest_id": 1337,
+    "language": "Java 8",
+    "path": "codeforces\\1337\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Ichihime and Triangle",
+    "problem_url": "https://codeforces.com/contest/1337/problem/A",
+    "submission_id": "CF102882678",
+    "submission_url": "https://codeforces.com/contest/1337/submission/102882678",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Dec/31/2020 10:44"
+  },
   "CF102885489": {
     "contest_id": 1337,
     "language": "Java 8",
