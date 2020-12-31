@@ -1,4 +1,22 @@
 {
+  "CF102885489": {
+    "contest_id": 1337,
+    "language": "Java 8",
+    "path": "codeforces\\1337\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Kana and Dragon Quest game",
+    "problem_url": "https://codeforces.com/contest/1337/problem/B",
+    "submission_id": "CF102885489",
+    "submission_url": "https://codeforces.com/contest/1337/submission/102885489",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Dec/31/2020 11:32"
+  },
   "CF102899925": {
     "contest_id": 1466,
     "language": "Java 8",
