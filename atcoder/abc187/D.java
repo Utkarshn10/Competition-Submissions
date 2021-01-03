@@ -1,0 +1,151 @@
+
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.io.PrintWriter;
+import java.math.BigInteger;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.LinkedList;
+import java.util.List;	
+import java.util.Map;
+import java.util.Queue;
+import java.util.Scanner;
+import java.util.Set;
+import java.util.StringTokenizer;
+	
+public class Main {
+		static void main() throws Exception{
+		int n=s.nextInt();
+		long[] a = new long[n];
+		long[] b = new long[n];
+		List<Long> se = new ArrayList<>();
+		long sum=0;
+		for(int i=0;i<n;i++) {
+			a[i]=s.nextInt();
+			b[i]=s.nextInt();
+			sum-=a[i];
+			se.add(2*a[i]+b[i]);
+		}
+		int c=0,i=se.size()-1;
+		Collections.sort(se);
+//		System.out.println(se);
+//		System.out.println(sum);
+		while(sum<=0 && i>=0) {
+			sum+=se.get(i);
+//			System.out.println(se.get(i));
+			i--;
+			c++;
+		}
+		System.out.println(c);
+	}
+	public static void main(String[] args) throws Exception {
+		s = new MScanner(System.in);
+		pw = new PrintWriter(System.out);
+		int tc = 1;
+//		tc=sc.nextInt();
+		for (int test = 1; test <= tc; test++) {
+				main();
+		}
+		pw.flush();
+	}
+	static PrintWriter pw;
+	static MScanner s;
+	static class MScanner {
+		StringTokenizer st;
+		BufferedReader br;
+		public MScanner(InputStream system) {
+			br = new BufferedReader(new InputStreamReader(system));
+		}
+	 	public MScanner(String file) throws Exception {
+			br = new BufferedReader(new FileReader(file));
+		}
+		public String next() throws IOException {
+			while (st == null || !st.hasMoreTokens())
+				st = new StringTokenizer(br.readLine());
+			return st.nextToken();
+		}
+		public int[] intArr(int n) throws IOException {
+			int[] in = new int[n];
+			for (int i = 0; i < n; i++)
+				in[i] = nextInt();
+			return in;
+		}
+	 	public long[] longArr(int n) throws IOException {
+			long[] in = new long[n];
+			for (int i = 0; i < n; i++)
+				in[i] = nextLong();
+			return in;
+		}
+		public int[] intSortedArr(int n) throws IOException {
+			int[] in = new int[n];
+			for (int i = 0; i < n; i++)
+				in[i] = nextInt();
+			shuffle(in);
+			Arrays.sort(in);
+			return in;
+		}
+		public long[] longSortedArr(int n) throws IOException {
+			long[] in = new long[n];
+			for (int i = 0; i < n; i++)
+				in[i] = nextLong();
+			shuffle(in);
+			Arrays.sort(in);
+			return in;
+		}
+	 	public Integer[] IntegerArr(int n) throws IOException {
+			Integer[] in = new Integer[n];
+			for (int i = 0; i < n; i++)
+				in[i] = nextInt();
+			return in;
+		}
+		public Long[] LongArr(int n) throws IOException {
+			Long[] in = new Long[n];
+			for (int i = 0; i < n; i++)
+				in[i] = nextLong();
+			return in;
+		}
+		public String nextLine() throws IOException {
+			return br.readLine();
+		}
+		public int nextInt() throws IOException {
+			return Integer.parseInt(next());
+		}
+		public double nextDouble() throws IOException {
+			return Double.parseDouble(next());
+		}
+		public char nextChar() throws IOException {
+			return next().charAt(0);
+		}
+		public long nextLong() throws IOException {
+				return Long.parseLong(next());
+		}
+	 	public boolean ready() throws IOException {
+				return br.ready();
+		}
+		public void waitForInput() throws InterruptedException {
+				Thread.sleep(3000);
+		}
+	}
+		static void shuffle(int[] in) {
+			for (int i = 0; i < in.length; i++) {
+				int idx = (int) (Math.random() * in.length);
+				int tmp = in[i];
+				in[i] = in[idx];
+				in[idx] = tmp;
+			}
+	}
+	 	static void shuffle(long[] in) {
+	 		for (int i = 0; i < in.length; i++) {
+				int idx = (int) (Math.random() * in.length);
+				long tmp = in[i];
+				in[i] = in[idx];
+				in[idx] = tmp;
+			}
+		}
+	}
