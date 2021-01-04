@@ -1,4 +1,20 @@
 {
+  "CF103144945": {
+    "contest_id": 1196,
+    "language": "Java 8",
+    "path": "codeforces\\1196\\D1.java",
+    "platform": "Codeforces",
+    "problem_index": "D1",
+    "problem_name": "RGB Substring (easy version)",
+    "problem_url": "https://codeforces.com/contest/1196/problem/D1",
+    "submission_id": "CF103144945",
+    "submission_url": "https://codeforces.com/contest/1196/submission/103144945",
+    "tags": [
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Jan/04/2021 11:12"
+  },
   "CF103164468": {
     "contest_id": 1454,
     "language": "Java 8",
