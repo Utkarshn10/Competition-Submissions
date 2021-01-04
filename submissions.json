@@ -1,4 +1,21 @@
 {
+  "CF103164468": {
+    "contest_id": 1454,
+    "language": "Java 8",
+    "path": "codeforces\\1454\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Sequence Transformation",
+    "problem_url": "https://codeforces.com/contest/1454/problem/C",
+    "submission_id": "CF103164468",
+    "submission_url": "https://codeforces.com/contest/1454/submission/103164468",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Jan/04/2021 16:25"
+  },
   "CF103257403": {
     "contest_id": 1472,
     "language": "Java 8",
