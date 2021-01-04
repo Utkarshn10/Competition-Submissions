@@ -1,4 +1,22 @@
 {
+  "CF103257403": {
+    "contest_id": 1472,
+    "language": "Java 8",
+    "path": "codeforces\\1472\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Fair Division",
+    "problem_url": "https://codeforces.com/contest/1472/problem/B",
+    "submission_id": "CF103257403",
+    "submission_url": "https://codeforces.com/contest/1472/submission/103257403",
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/04/2021 21:03"
+  },
   "CF103305127": {
     "contest_id": 1472,
     "language": "Java 8",

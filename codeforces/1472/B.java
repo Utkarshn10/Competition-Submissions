@@ -22,21 +22,21 @@ import java.util.StringTokenizer;
 public class main1 {
 	
 	
-	static int mx= 200005 ;
+
 	static void main() throws Exception{
 		int n=s.nextInt();
-		Integer[] a =new Integer[n];
-		long sum=0;
+		int o=0,t=0,t1=0,sum=0;
 		for(int i=0;i<n;i++) {
-			a[i]=s.nextInt();
-			
+			int p=s.nextInt();
+			if(p==1)o+=p;
+			else{
+				t+=p;
+				t1++;
+			}
 		}
-		Arrays.sort(a);
-		for(int i=n-1;i>=0;i--) {
-			if(sum<=0)sum+=a[i];
-			else sum-=a[i];
-		}
-		 System.out.println(sum==0?"YES":"NO");
+		if((o>0 && o%2==0) || (t==o) || (o==0 && t1%2==0))System.out.println("YES");
+		else System.out.println("NO");
+
 	}
 	public static void main(String[] args) throws Exception {
 		s = new MScanner(System.in);
