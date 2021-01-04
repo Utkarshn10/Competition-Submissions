@@ -1,4 +1,21 @@
 {
+  "CF103305127": {
+    "contest_id": 1472,
+    "language": "Java 8",
+    "path": "codeforces\\1472\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cards for Friends",
+    "problem_url": "https://codeforces.com/contest/1472/problem/A",
+    "submission_id": "CF103305127",
+    "submission_url": "https://codeforces.com/contest/1472/submission/103305127",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/04/2021 22:16"
+  },
   "CF103340337": {
     "contest_id": 1472,
     "language": "Java 8",
