@@ -1,4 +1,21 @@
 {
+  "CF103726263": {
+    "contest_id": 1367,
+    "language": "Java 8",
+    "path": "codeforces\\1367\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Even Array",
+    "problem_url": "https://codeforces.com/contest/1367/problem/B",
+    "submission_id": "CF103726263",
+    "submission_url": "https://codeforces.com/contest/1367/submission/103726263",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/08/2021 20:04"
+  },
   "CF103810894": {
     "contest_id": 1467,
     "language": "Java 8",
