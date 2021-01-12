@@ -1,4 +1,22 @@
 {
+  "CF104133383": {
+    "contest_id": 1446,
+    "language": "Java 8",
+    "path": "codeforces\\1446\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Knapsack",
+    "problem_url": "https://codeforces.com/contest/1446/problem/A",
+    "submission_id": "CF104133383",
+    "submission_url": "https://codeforces.com/contest/1446/submission/104133383",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Jan/12/2021 22:30"
+  },
   "CF104166554": {
     "contest_id": 1451,
     "language": "Java 8",
