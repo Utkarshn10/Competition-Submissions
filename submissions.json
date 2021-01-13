@@ -1,4 +1,21 @@
 {
+  "CF104170059": {
+    "contest_id": 1447,
+    "language": "Java 8",
+    "path": "codeforces\\1447\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Add Candies",
+    "problem_url": "https://codeforces.com/contest/1447/problem/A",
+    "submission_id": "CF104170059",
+    "submission_url": "https://codeforces.com/contest/1447/submission/104170059",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/13/2021 12:36"
+  },
   "CF104243583": {
     "contest_id": 1430,
     "language": "Java 8",
