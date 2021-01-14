@@ -1,4 +1,4 @@
-
+	
 		import java.io.BufferedReader;
 		import java.io.FileReader;
 		import java.io.IOException;
@@ -24,17 +24,16 @@
 			static int mx= 200005 ;
 			static void solve() throws Exception{
 				int n = s.nextInt();
-				for(int i=0;i<n;i++) {
-					for(int j=0;j<n;j++) {
-						for(int k=0;k<n;k++) {
-							if((i*3+j*5+k*7)==n) {
-								System.out.println(i+" "+j+" "+k);
-								return;
-							}
-						}
+				
+				if(n==1 || n==2 || n==4)System.out.println(-1);
+				else {
+					if(n%3==0)System.out.println(n/3+" "+0+" "+0);
+					else if(n%3==1) {
+						System.out.println((n-7)/3+" "+0+" "+1);
 					}
+					else System.out.println((n-5)/3+" "+1+" "+0);
+					
 				}
-				System.out.println(-1);
 		}
 
 		public static void main(String[] args) throws Exception {
