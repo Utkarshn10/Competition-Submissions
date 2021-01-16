@@ -1,4 +1,21 @@
 {
+  "CF104472538": {
+    "contest_id": 1465,
+    "language": "Java 11",
+    "path": "codeforces\\1465\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "In-game Chat",
+    "problem_url": "https://codeforces.com/contest/1465/problem/A",
+    "submission_id": "CF104472538",
+    "submission_url": "https://codeforces.com/contest/1465/submission/104472538",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jan/16/2021 11:55"
+  },
   "CF104476238": {
     "contest_id": 1465,
     "language": "Java 11",
