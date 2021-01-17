@@ -23,10 +23,12 @@ public class A {
 		MScanner sc = new MScanner(System.in);
 		int n=s.nextInt();
 		int c=0;
-		int cnt=0;
+		Set<Integer> se=new HashSet<>();
+		Set<Integer> a=new HashSet<>();
 		for(int i=4*n;i>=n && c<n;i-=2) {
-			System.out.print((i)+" ");
+			System.out.print(i+" ");
 			c++;
+			
 		}
 		System.out.println();
 	
