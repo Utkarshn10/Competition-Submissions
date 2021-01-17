@@ -1,4 +1,21 @@
 {
+  "CF104554180": {
+    "contest_id": 1445,
+    "language": "Java 11",
+    "path": "codeforces\\1445\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Elimination",
+    "problem_url": "https://codeforces.com/contest/1445/problem/B",
+    "submission_id": "CF104554180",
+    "submission_url": "https://codeforces.com/contest/1445/submission/104554180",
+    "tags": [
+      "greedy",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Jan/17/2021 10:21"
+  },
   "CF104555489": {
     "contest_id": 1443,
     "language": "Java 11",
