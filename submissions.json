@@ -1,4 +1,21 @@
 {
+  "CF104575680": {
+    "contest_id": 1417,
+    "language": "Java 11",
+    "path": "codeforces\\1417\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Copy-paste",
+    "problem_url": "https://codeforces.com/contest/1417/problem/A",
+    "submission_id": "CF104575680",
+    "submission_url": "https://codeforces.com/contest/1417/submission/104575680",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/17/2021 15:55"
+  },
   "CF104772760": {
     "contest_id": 1283,
     "language": "Java 11",
