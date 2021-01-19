@@ -1,4 +1,20 @@
 {
+  "CF104772760": {
+    "contest_id": 1283,
+    "language": "Java 11",
+    "path": "codeforces\\1283\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Minutes Before the New Year",
+    "problem_url": "https://codeforces.com/contest/1283/problem/A",
+    "submission_id": "CF104772760",
+    "submission_url": "https://codeforces.com/contest/1283/submission/104772760",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/19/2021 19:59"
+  },
   "CF105118544": {
     "contest_id": 1249,
     "language": "Java 11",
