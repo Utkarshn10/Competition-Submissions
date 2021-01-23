@@ -1,4 +1,22 @@
 {
+  "CF105139741": {
+    "contest_id": 1249,
+    "language": "Java 11",
+    "path": "codeforces\\1249\\C1.java",
+    "platform": "Codeforces",
+    "problem_index": "C1",
+    "problem_name": "Good Numbers (easy version)",
+    "problem_url": "https://codeforces.com/contest/1249/problem/C1",
+    "submission_id": "CF105139741",
+    "submission_url": "https://codeforces.com/contest/1249/submission/105139741",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Jan/23/2021 15:28"
+  },
   "CF105398377": {
     "contest_id": 1475,
     "language": "Java 11",
