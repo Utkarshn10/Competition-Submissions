@@ -1,4 +1,20 @@
 {
+  "CF105128712": {
+    "contest_id": 1249,
+    "language": "Java 11",
+    "path": "codeforces\\1249\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Yet Another Dividing into Teams",
+    "problem_url": "https://codeforces.com/contest/1249/problem/A",
+    "submission_id": "CF105128712",
+    "submission_url": "https://codeforces.com/contest/1249/submission/105128712",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/23/2021 13:04"
+  },
   "CF105129120": {
     "contest_id": 1249,
     "language": "Java 11",
