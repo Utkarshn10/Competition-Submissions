@@ -1,4 +1,20 @@
 {
+  "CF105636131": {
+    "contest_id": 1405,
+    "language": "Java 8",
+    "path": "codeforces\\1405\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Permutation Forgery",
+    "problem_url": "https://codeforces.com/contest/1405/problem/A",
+    "submission_id": "CF105636131",
+    "submission_url": "https://codeforces.com/contest/1405/submission/105636131",
+    "tags": [
+      "constructive algorithms",
+      "*800"
+    ],
+    "timestamp": "Jan/28/2021 11:41"
+  },
   "CF105656491": {
     "contest_id": 1405,
     "language": "Java 8",
