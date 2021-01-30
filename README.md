@@ -13,11 +13,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-125 | [B - Minimum Product](https://codeforces.com/contest/1409/problem/B) | [Java 8](./codeforces/1409/B.java) | `brute force` `greedy` `math` `*1100` | Jan/31/2021 15:36 | 
-124 | [C - Bowls and Dishes](https://atcoder.jp/contests/abc190/tasks/abc190_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc190/C.java) | `AtCoder` `*300` | Jan/31/2021 12:52 | 
-123 | [B - Magic 3](https://atcoder.jp/contests/abc190/tasks/abc190_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc190/B.java) | `AtCoder` `*200` | Jan/30/2021 17:41 | 
-122 | [A - Very Very Primitive Game](https://atcoder.jp/contests/abc190/tasks/abc190_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc190/A.java) | `AtCoder` `*100` | Jan/30/2021 17:36 | 
-121 | [C - Mandarin Orange](https://atcoder.jp/contests/abc189/tasks/abc189_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc189/C.java) | `AtCoder` `*300` | Jan/30/2021 12:41 | 
+126 | [B - Minimum Product](https://codeforces.com/contest/1409/problem/B) | [Java 8](./codeforces/1409/B.java) | `brute force` `greedy` `math` `*1100` | Jan/31/2021 15:36 | 
+125 | [C - Bowls and Dishes](https://atcoder.jp/contests/abc190/tasks/abc190_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc190/C.java) | `AtCoder` `*300` | Jan/31/2021 12:52 | 
+124 | [B - Magic 3](https://atcoder.jp/contests/abc190/tasks/abc190_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc190/B.java) | `AtCoder` `*200` | Jan/30/2021 17:41 | 
+123 | [A - Very Very Primitive Game](https://atcoder.jp/contests/abc190/tasks/abc190_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc190/A.java) | `AtCoder` `*100` | Jan/30/2021 17:36 | 
+122 | [C - Mandarin Orange](https://atcoder.jp/contests/abc189/tasks/abc189_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc189/C.java) | `AtCoder` `*300` | Jan/30/2021 12:41 | 
+121 | [B - Alcoholic](https://atcoder.jp/contests/abc189/tasks/abc189_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc189/B.java) | `AtCoder` `*200` | Jan/30/2021 12:19 | 
 120 | [B - Nezzar and Lucky Number](https://codeforces.com/contest/1478/problem/B) | [Java 8](./codeforces/1478/B.java) | `brute force` `dp` `greedy` `math` `*1100` | Jan/29/2021 10:30 | 
 119 | [A - Nezzar and Colorful Balls](https://codeforces.com/contest/1478/problem/A) | [Java 8](./codeforces/1478/A.java) | `brute force` `greedy` `*800` | Jan/28/2021 20:08 | 
 118 | [B - Array Cancellation](https://codeforces.com/contest/1405/problem/B) | [Java 8](./codeforces/1405/B.java) | `constructive algorithms` `implementation` `*1000` | Jan/28/2021 16:00 | 
