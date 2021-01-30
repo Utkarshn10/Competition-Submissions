@@ -1,4 +1,20 @@
 {
+  "AC19766553": {
+    "contest_id": "abc189",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc189\\C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Mandarin Orange",
+    "problem_url": "https://atcoder.jp/contests/abc189/tasks/abc189_c",
+    "submission_id": "AC19766553",
+    "submission_url": "https://atcoder.jp/contests/abc189/submissions/19766553",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/30/2021 12:41"
+  },
   "AC19781061": {
     "contest_id": "abc190",
     "language": "Java (OpenJDK 11.0.6)",
