@@ -1,4 +1,20 @@
 {
+  "AC19786194": {
+    "contest_id": "abc190",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc190\\B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Magic 3",
+    "problem_url": "https://atcoder.jp/contests/abc190/tasks/abc190_b",
+    "submission_id": "AC19786194",
+    "submission_url": "https://atcoder.jp/contests/abc190/submissions/19786194",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/30/2021 17:41"
+  },
   "AC19836924": {
     "contest_id": "abc190",
     "language": "Java (OpenJDK 11.0.6)",
