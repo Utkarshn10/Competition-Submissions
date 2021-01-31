@@ -1,4 +1,20 @@
 {
+  "AC19836924": {
+    "contest_id": "abc190",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc190\\C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Bowls and Dishes",
+    "problem_url": "https://atcoder.jp/contests/abc190/tasks/abc190_c",
+    "submission_id": "AC19836924",
+    "submission_url": "https://atcoder.jp/contests/abc190/submissions/19836924",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/31/2021 12:52"
+  },
   "CF100055756": {
     "contest_id": 1455,
     "language": "Java 8",
