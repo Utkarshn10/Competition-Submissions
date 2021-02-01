@@ -13,15 +13,16 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-246 | [A - Yet Another String Game](https://codeforces.com/contest/1480/problem/A) | [Java 8](./codeforces/1480/A.java) | `games` `greedy` `strings` `*800` | Feb/07/2021 20:12 | 
-245 | [B - New Colony](https://codeforces.com/contest/1481/problem/B) | [Java 8](./codeforces/1481/B.java) | `brute force` `greedy` `implementation` `*1100` | Feb/06/2021 15:35 | 
-244 | [A - Space Navigation ](https://codeforces.com/contest/1481/problem/A) | [Java 8](./codeforces/1481/A.java) | `greedy` `strings` `*800` | Feb/06/2021 12:25 | 
-243 | [A - Sweet Problem](https://codeforces.com/contest/1263/problem/A) | [Java 8](./codeforces/1263/A.java) | `math` `*1100` | Feb/05/2021 16:19 | 
-242 | [B - Magical Calendar](https://codeforces.com/contest/1371/problem/B) | [Java 8](./codeforces/1371/B.java) | `math` `*1200` | Feb/05/2021 15:49 | 
-241 | [B - Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | [Java 8](./codeforces/1374/B.java) | `math` `*900` | Feb/05/2021 09:20 | 
-240 | [B - Rock and Lever](https://codeforces.com/contest/1420/problem/B) | [Java 8](./codeforces/1420/B.java) | `bitmasks` `math` `*1200` | Feb/04/2021 17:17 | 
-239 | [A - Cubes Sorting](https://codeforces.com/contest/1420/problem/A) | [Java 8](./codeforces/1420/A.java) | `math` `sortings` `*900` | Feb/04/2021 16:22 | 
-238 | [B - Nice Matrix](https://codeforces.com/contest/1422/problem/B) | [Java 8](./codeforces/1422/B.java) | `greedy` `implementation` `math` `*1300` | Feb/04/2021 15:07 | 
+247 | [A - Yet Another String Game](https://codeforces.com/contest/1480/problem/A) | [Java 8](./codeforces/1480/A.java) | `games` `greedy` `strings` `*800` | Feb/07/2021 20:12 | 
+246 | [B - New Colony](https://codeforces.com/contest/1481/problem/B) | [Java 8](./codeforces/1481/B.java) | `brute force` `greedy` `implementation` `*1100` | Feb/06/2021 15:35 | 
+245 | [A - Space Navigation ](https://codeforces.com/contest/1481/problem/A) | [Java 8](./codeforces/1481/A.java) | `greedy` `strings` `*800` | Feb/06/2021 12:25 | 
+244 | [A - Sweet Problem](https://codeforces.com/contest/1263/problem/A) | [Java 8](./codeforces/1263/A.java) | `math` `*1100` | Feb/05/2021 16:19 | 
+243 | [B - Magical Calendar](https://codeforces.com/contest/1371/problem/B) | [Java 8](./codeforces/1371/B.java) | `math` `*1200` | Feb/05/2021 15:49 | 
+242 | [B - Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | [Java 8](./codeforces/1374/B.java) | `math` `*900` | Feb/05/2021 09:20 | 
+241 | [B - Rock and Lever](https://codeforces.com/contest/1420/problem/B) | [Java 8](./codeforces/1420/B.java) | `bitmasks` `math` `*1200` | Feb/04/2021 17:17 | 
+240 | [A - Cubes Sorting](https://codeforces.com/contest/1420/problem/A) | [Java 8](./codeforces/1420/A.java) | `math` `sortings` `*900` | Feb/04/2021 16:22 | 
+239 | [B - Nice Matrix](https://codeforces.com/contest/1422/problem/B) | [Java 8](./codeforces/1422/B.java) | `greedy` `implementation` `math` `*1300` | Feb/04/2021 15:07 | 
+238 | [A - Raising Bacteria](https://codeforces.com/contest/579/problem/A) | [Java 8](./codeforces/579/A.java) | `bitmasks` `*1000` | Feb/01/2021 22:00 | 
 237 | [B - Minimum Product](https://codeforces.com/contest/1409/problem/B) | [Java 8](./codeforces/1409/B.java) | `brute force` `greedy` `math` `*1100` | Jan/31/2021 15:36 | 
 236 | [C - Bowls and Dishes](https://atcoder.jp/contests/abc190/tasks/abc190_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc190/C.java) | `AtCoder` `*300` | Jan/31/2021 12:52 | 
 235 | [B - Magic 3](https://atcoder.jp/contests/abc190/tasks/abc190_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc190/B.java) | `AtCoder` `*200` | Jan/30/2021 17:41 | 
