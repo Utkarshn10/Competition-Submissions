@@ -3767,6 +3767,23 @@
     ],
     "timestamp": "Jan/31/2021 15:36"
   },
+  "CF106444868": {
+    "contest_id": 1420,
+    "language": "Java 8",
+    "path": "codeforces\\1420\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cubes Sorting",
+    "problem_url": "https://codeforces.com/contest/1420/problem/A",
+    "submission_id": "CF106444868",
+    "submission_url": "https://codeforces.com/contest/1420/submission/106444868",
+    "tags": [
+      "math",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Feb/04/2021 16:22"
+  },
   "CF106446589": {
     "contest_id": 1420,
     "language": "Java 8",
