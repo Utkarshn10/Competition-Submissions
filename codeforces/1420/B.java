@@ -32,17 +32,17 @@ public class B {
 		int n = s.nextInt();
 		int[]a= new int[n];
 		for(int i=0;i<n;i++)a[i]=s.nextInt();
-		long ans=0;
-		HashMap<Integer,Integer> map=new HashMap<>();
-		for(int i:a) {;
-			i=Integer.highestOneBit(i);
-//			System.out.println(i+" "+map.getOrDefault(i,0));
-			
-			ans+=map.getOrDefault(i,0);
-			map.put(i, map.getOrDefault(i,0)+1);
+		Integer[]bit=new Integer[32];
+		Arrays.fill(bit, 0);
+		for(int i=0;i<n;i++) {
+			int k = Integer.numberOfLeadingZeros(a[i]);
+			bit[k]+=1;
 		}
-		
-		System.out.println(ans);
+		long ans=1;
+		for(int i=0;i<32;i++) {
+			ans+=bit[i]*(long)(bit[i]-1)/2;
+		}
+		System.out.println(ans-1);
 	}	
 	
 	static Integer[] sort(Integer[] arr,int n) {
