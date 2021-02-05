@@ -3767,6 +3767,22 @@
     ],
     "timestamp": "Jan/31/2021 15:36"
   },
+  "CF106523997": {
+    "contest_id": 1263,
+    "language": "Java 8",
+    "path": "codeforces\\1263\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sweet Problem",
+    "problem_url": "https://codeforces.com/contest/1263/problem/A",
+    "submission_id": "CF106523997",
+    "submission_url": "https://codeforces.com/contest/1263/submission/106523997",
+    "tags": [
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Feb/05/2021 16:19"
+  },
   "CF106651084": {
     "contest_id": 1481,
     "language": "Java 8",
